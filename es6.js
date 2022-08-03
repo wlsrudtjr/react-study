@@ -73,4 +73,26 @@ const [first, second] = arr;
 // vscode
 // github
 // eslint : vscode 에서 js 문법 검사
-// prettier : vscode 에서 코드 formatter
+// prettier : vscode 에서 코드 formatter -> formatter 검색, prettier 선택, format on save check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
